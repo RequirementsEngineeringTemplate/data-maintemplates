@@ -5,3 +5,4 @@ It simple creates the databases using DDL language and sets up inital foreign an
 - Its somewhat Normalized (its around 3.5) but hasn't fully been tested or planed.
 - ERDs are created by BeaverDB (default settings) and will be replaced with full ones later
   - Beaver doesn't describe the cardinality by default (without adding conditions)
+- Added picture of commands used to import a csv file with inital location data
